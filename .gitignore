@@ -1,4 +1,22 @@
-venv/
+# Python
 __pycache__/
 *.pyc
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
 .vscode/
+.idea/
+
+# Media
+*.mp4
+*.png
+*.jpg
+
+# Config
+user_profile.json
